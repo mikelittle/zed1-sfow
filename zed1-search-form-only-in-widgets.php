@@ -5,6 +5,7 @@ Plugin URI: https://zed1.com/
 Description: Only allow the search form in a widget area. Removes the search form from the Twenty Eleven header. 
 Author: Mike Little
 Version: 1.0
+License: GPL2+
 Author URI: https://mikelittle.org/
 */
 
