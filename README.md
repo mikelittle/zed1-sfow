@@ -1,4 +1,4 @@
-# Plugin Name #
+# Zed1 Search Form Only in Widgets #
 **Contributors:** mikelittle
   
 **Tags:** Twenty Eleven, Search form, widgets
